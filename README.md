@@ -71,6 +71,9 @@ aws cloudformation create-stack --stack-name gameday --template-body file:////ho
 aws cloudformation delete-stack --stack-name gameday
 ```
 
+# TODO
+- cf2py検証
+
 # 参考
 ## troposphere
  - https://github.com/bwhaley/aws-gameday-2014
