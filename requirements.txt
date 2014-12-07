@@ -1,0 +1,2 @@
+awacs==0.4.2
+troposphere==0.6.2
