@@ -1,5 +1,5 @@
 # 環境構築
-## cloudformation実行甩インスタンス
+## cloudformation実行用インスタンス
 - Amazon Linux AMI 2014.09.1 (HVM) - ami-4985b048
 
 ```bash
